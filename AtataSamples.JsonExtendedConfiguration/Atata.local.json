@@ -1,4 +1,5 @@
 {
-  "baseUrl": "https://atata.io/"
-  // Other environment specific configuration properties can be added here.
+  "baseUrl": "https://atata.io/",
+  "username": "conflocaluser",
+  "password": "conflocalpass"
 }
