@@ -1,5 +1,5 @@
 {
   "baseUrl": "https://atata.io/",
-  "username": "confuatuser",
-  "password": "confuatpass"
+  "username": "{env:TestUsername}",
+  "password": "{env:TestPassword}"
 }
